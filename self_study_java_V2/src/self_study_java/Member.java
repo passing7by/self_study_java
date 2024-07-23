@@ -18,4 +18,8 @@ public class Member {
 			return false;
 		}
 	}
+	
+	public int hashCode() {
+		return name.hashCode() + age;
+	}
 }
