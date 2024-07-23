@@ -1,4 +1,4 @@
-package self_study_java;
+package example;
 
 public class Member {
 	public String name;

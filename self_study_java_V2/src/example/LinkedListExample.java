@@ -1,4 +1,4 @@
-package self_study_java;
+package example;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

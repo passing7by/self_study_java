@@ -1,4 +1,4 @@
-package self_study_java;
+package example;
 
 import java.util.HashSet;
 import java.util.Iterator;
